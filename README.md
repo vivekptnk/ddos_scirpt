@@ -1,1 +1,1 @@
-# ddos_scirpt
+# ddos_sript
