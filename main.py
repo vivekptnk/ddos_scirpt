@@ -1,9 +1,11 @@
 import threading
 import socket
+import math
 
 target = "" # IP Address you want to DDOS, I tested it on my own router , `ipconfig` in your terminal to find out your IP Address
 port = 80  # Port number you got
-fakeip = '182.20.19.0' #choose an IP
+fakeip = '182.20.19.0' #choose an  IP
+
 
 already_connect = 0 
 
